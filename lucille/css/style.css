@@ -1,0 +1,21 @@
+/**
+ * Place your custom styles here.
+ */
+body {
+    background-color: gainsboro;
+}
+
+.navbar-brand {
+    color: orange;
+    font-size: 4em;
+}
+
+
+p{
+    font-size: 2em;
+    color: orange;
+}
+
+.quickedit-field {
+    color: green;
+}
